@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Jaz]
 
 The log of my #100DaysOfCode challenge. Started on [September 30, Wednesday, 2020].
 
@@ -15,3 +15,13 @@ The log of my #100DaysOfCode challenge. Started on [September 30, Wednesday, 202
 **Today's Progress**: Finished reading and exercises of A Smarter Way to Learn JavaScript Chapters 9-12.
 
 **Thoughts:** Started with if statements. Finally making some progress :)
+
+### R1D3
+**Today's Progress**: Finished reading and exercises of A Smarter Way to Learn JavaScript Chapters 12-14.
+
+**Thoughts:**
+
+### R1D4
+**Today's Progress**: 
+
+**Thoughts:**
