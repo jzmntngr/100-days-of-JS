@@ -22,6 +22,6 @@ The log of my #100DaysOfCode challenge. Started on [September 30, Wednesday, 202
 **Thoughts:**
 
 ### R1D4
-**Today's Progress**: 
+**Today's Progress**: Traversy Media's JavaScript Crash Course For Beginners
 
 **Thoughts:**
