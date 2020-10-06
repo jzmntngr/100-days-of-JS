@@ -36,7 +36,13 @@ The log of my #100DaysOfCode challenge. Started on [September 30, Wednesday, 202
 **Thoughts:**
 
 ### R1D6
-### Day 6: October 5, Sunday
-**Today's Progress**: Traversy Media's JavaScript Crash Course For Beginners
+### Day 6: October 5, Monday
+**Today's Progress**:
+
+**Thoughts:**
+
+### R1D6
+### Day 7: October 6, Tuesday
+**Today's Progress**:
 
 **Thoughts:**
