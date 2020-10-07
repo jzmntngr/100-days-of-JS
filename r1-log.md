@@ -46,3 +46,9 @@ The log of my #100DaysOfCode challenge. Started on [September 30, Wednesday, 202
 **Today's Progress**:
 
 **Thoughts:**
+
+### R1D6
+### Day 8: October 7, Wednesday
+**Today's Progress**:
+
+**Thoughts:**
