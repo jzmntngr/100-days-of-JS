@@ -41,14 +41,20 @@ The log of my #100DaysOfCode challenge. Started on [September 30, Wednesday, 202
 
 **Thoughts:**
 
-### R1D6
+### R1D7
 ### Day 7: October 6, Tuesday
-**Today's Progress**:
+**Today's Progress**: FreeCodeCamp, A Smarter Way to Learn JavaScript Chapters
 
 **Thoughts:**
 
-### R1D6
+### R1D8
 ### Day 8: October 7, Wednesday
-**Today's Progress**:
+**Today's Progress**: A Smarter Way to Learn JavaScript Chapters
+
+**Thoughts:**
+
+### R1D9
+### Day 9: October 8, Wednesday
+**Today's Progress**: A Smarter Way to Learn JavaScript Chapters
 
 **Thoughts:**
