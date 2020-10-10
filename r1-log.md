@@ -54,7 +54,19 @@ The log of my #100DaysOfCode challenge. Started on [September 30, Wednesday, 202
 **Thoughts:**
 
 ### R1D9
-### Day 9: October 8, Wednesday
+### Day 9: October 8, Thursday
 **Today's Progress**: A Smarter Way to Learn JavaScript Chapters
+
+**Thoughts:**
+
+### R1D10
+### Day 10: October 9, Friday
+**Today's Progress**: -
+
+**Thoughts:**
+
+### R1D10
+### Day 11: October 10, Saturday
+**Today's Progress**: -
 
 **Thoughts:**
