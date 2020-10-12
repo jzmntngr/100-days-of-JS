@@ -70,8 +70,15 @@ The log of my #100DaysOfCode challenge. Started on [September 30, Wednesday, 202
 **Today's Progress**: -
 
 **Thoughts:**
+
 ### R1D11
 ### Day 11: October 11, Sunday
 **Today's Progress**: -
+
+**Thoughts:**
+
+### R1D12
+### Day 12: October 12, Sunday
+**Today's Progress**: 2 minute Habit JS
 
 **Thoughts:**
