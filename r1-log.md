@@ -78,7 +78,19 @@ The log of my #100DaysOfCode challenge. Started on [September 30, Wednesday, 202
 **Thoughts:**
 
 ### R1D12
-### Day 12: October 12, Sunday
+### Day 12: October 12, Monday
+**Today's Progress**: 2 minute Habit JS
+
+**Thoughts:**
+
+### R1D13
+### Day 13: October 13, Tuesday
+**Today's Progress**: 2 minute Habit JS , 1 Chapter A Smarter Way to Learn JavaScript
+
+**Thoughts:** Tying to build a habit of learning JS
+
+### R1D14
+### Day 14: October 14, Wednesday
 **Today's Progress**: 2 minute Habit JS
 
 **Thoughts:**
