@@ -106,3 +106,9 @@ The log of my #100DaysOfCode challenge. Started on [September 30, Wednesday, 202
 **Today's Progress**: 2 minute Habit JS
 
 **Thoughts:**
+
+### R1D17
+### Day 17: October 17, Saturday
+**Today's Progress**: 2 minute Habit JS
+
+**Thoughts:**
