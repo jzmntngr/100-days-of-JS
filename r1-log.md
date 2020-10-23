@@ -138,7 +138,13 @@ The log of my #100DaysOfCode challenge. Started on [September 30, Wednesday, 202
 **Thoughts:**
 
 ### R1D22
-### Day 22: October 22, Thursday
+### Day 22: October 22, Thursday          
+**Today's Progress**: 2 minute Habit JS
+
+**Thoughts:**
+
+### R1D23
+### Day 23: October 23, Friday            
 **Today's Progress**: 2 minute Habit JS
 
 **Thoughts:**
