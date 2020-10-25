@@ -154,3 +154,15 @@ The log of my #100DaysOfCode challenge. Started on [September 30, Wednesday, 202
 **Today's Progress**: 2 minute Habit JS
 
 **Thoughts:**
+
+### R1D25
+### Day 25: October 25, Sunday            
+**Today's Progress**: Visit Dads :D
+
+**Thoughts:**
+
+### R1D26
+### Day 26: October 26, Monday            
+**Today's Progress**: 2 minute Habit JS
+
+**Thoughts:**
