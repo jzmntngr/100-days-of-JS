@@ -192,7 +192,13 @@ The log of my #100DaysOfCode challenge. Started on [September 30, Wednesday, 202
 **Thoughts:**
 
 ### R1D31
-### Day 31: October 31, Friday            
+### Day 31: October 31, Saturday            
+**Today's Progress**: 2 minute Habit JS
+
+**Thoughts:**
+
+### R1D32
+### Day 32: November 01, Sunday            
 **Today's Progress**: 2 minute Habit JS
 
 **Thoughts:**
