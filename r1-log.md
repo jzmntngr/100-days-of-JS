@@ -204,7 +204,13 @@ The log of my #100DaysOfCode challenge. Started on [September 30, Wednesday, 202
 **Thoughts:**
 
 ### R1D33
-### Day 33: November 02, Sunday            
+### Day 33: November 02, Monday            
 **Today's Progress**: 2 minute Habit JS
 
 **Thoughts:** Dads Birthday <3
+
+### R1D34
+### Day 34: November 03, Tuesday            
+**Today's Progress**: 2 minute Habit JS
+
+**Thoughts:** 
