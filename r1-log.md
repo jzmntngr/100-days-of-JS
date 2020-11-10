@@ -251,8 +251,8 @@ The log of my #100DaysOfCode challenge. Started on [September 30, Wednesday, 202
 
 **Thoughts:**
 
-### R1D42
-### Day 42: November 10, Tuesday            
+### R1D41
+### Day 41: November 10, Tuesday            
 **Today's Progress**: 2 minute Habit JS
 
 **Thoughts:**
