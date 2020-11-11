@@ -256,3 +256,15 @@ The log of my #100DaysOfCode challenge. Started on [September 30, Wednesday, 202
 **Today's Progress**: 2 minute Habit JS
 
 **Thoughts:**
+
+### R1D42
+### Day 42: November 11, Wednesday            
+**Today's Progress**: 2 minute Habit JS
+
+**Thoughts:**
+
+### R1D43
+### Day 43: November 12, Thursday            
+**Today's Progress**: 2 minute Habit JS
+
+**Thoughts:**
