@@ -288,13 +288,19 @@ The log of my #100DaysOfCode challenge. Started on [September 30, Wednesday, 202
 **Thoughts:**
 
 ### R1D47
-### Day 47: November 16, Sunday            
+### Day 47: November 16, Monday            
 **Today's Progress**: JS workshop
 
 **Thoughts:**
 
 ### R1D48
-### Day 48: November 17, Sunday            
+### Day 48: November 17, Tuesday            
 **Today's Progress**: Clock
+
+**Thoughts:**
+
+### R1D48
+### Day 48: November 18, Wednesday            
+**Today's Progress**: 1hr
 
 **Thoughts:**
