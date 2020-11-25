@@ -313,14 +313,20 @@ The log of my #100DaysOfCode challenge. Started on [September 30, Wednesday, 202
 
 **Thoughts:**
 
-### R152
+### R153
 ### Day 51: November 23, Monday            
 **Today's Progress**: 1hr
 
 **Thoughts:**
 
 ### R152
-### Day 51: November 24, Monday            
+### Day 52: November 24, Tuesday            
+**Today's Progress**: 1hr
+
+**Thoughts:**
+
+### R153
+### Day 51: November 25, Wednesday            
 **Today's Progress**: 1hr
 
 **Thoughts:**
