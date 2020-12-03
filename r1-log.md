@@ -370,3 +370,9 @@ The log of my #100DaysOfCode challenge. Started on [September 30, Wednesday, 202
 **Today's Progress**: 1hr
 
 **Thoughts:**
+
+### R160
+### Day 60: December 03, Thursday            
+**Today's Progress**: 1hr
+
+**Thoughts:**
