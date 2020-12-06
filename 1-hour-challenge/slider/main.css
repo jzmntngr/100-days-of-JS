@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header{
+  background: chocolate;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.welcome{
+  position: absolute;
+  top: 5vh;
+}
+.img-wrap{
+  display: flex;
+  justify-content: center;
+  background: blue;
+  width: 90%;
+  height: 90%;
+  margin: 0 auto;
+  object-fit: cover;
+}
+.img-wrap img{
+  /* width: 100%; */
+  /* height: 500px; */
+}
