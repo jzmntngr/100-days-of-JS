@@ -138,169 +138,169 @@ The log of my #100DaysOfCode challenge. Started on [September 30, Wednesday, 202
 **Thoughts:**
 
 ### R1D22
-### Day 22: October 22, Thursday          
+### Day 22: October 22, Thursday
 **Today's Progress**: 2 minute Habit JS
 
 **Thoughts:**
 
 ### R1D23
-### Day 23: October 23, Friday            
+### Day 23: October 23, Friday
 **Today's Progress**: 2 minute Habit JS
 
 **Thoughts:**
 
 ### R1D24
-### Day 24: October 24, Saturday            
+### Day 24: October 24, Saturday
 **Today's Progress**: 2 minute Habit JS
 
 **Thoughts:**
 
 ### R1D25
-### Day 25: October 25, Sunday            
+### Day 25: October 25, Sunday
 **Today's Progress**: Visit Dads :D
 
 **Thoughts:**
 
 ### R1D26
-### Day 26: October 26, Monday            
+### Day 26: October 26, Monday
 **Today's Progress**: 2 minute Habit JS
 
 **Thoughts:**
 
 ### R1D27
-### Day 27: October 27, Tuesday            
+### Day 27: October 27, Tuesday
 **Today's Progress**: 2 minute Habit JS
 
 **Thoughts:**
 
 ### R1D28
-### Day 28: October 28, Wednesday            
+### Day 28: October 28, Wednesday
 **Today's Progress**: 2 minute Habit JS
 
 **Thoughts:**
 
 ### R1D29
-### Day 29: October 29, Thursday            
+### Day 29: October 29, Thursday
 **Today's Progress**: 2 minute Habit JS
 
 **Thoughts:**
 
 ### R1D30
-### Day 30: October 30, Friday            
+### Day 30: October 30, Friday
 **Today's Progress**: 2 minute Habit JS
 
 **Thoughts:**
 
 ### R1D31
-### Day 31: October 31, Saturday            
+### Day 31: October 31, Saturday
 **Today's Progress**: 2 minute Habit JS
 
 **Thoughts:**
 
 ### R1D32
-### Day 32: November 01, Sunday            
+### Day 32: November 01, Sunday
 **Today's Progress**: 2 minute Habit JS
 
 **Thoughts:**
 
 ### R1D33
-### Day 33: November 02, Monday            
+### Day 33: November 02, Monday
 **Today's Progress**: 2 minute Habit JS
 
 **Thoughts:** Dads Birthday <3
 
 ### R1D34
-### Day 34: November 03, Tuesday            
+### Day 34: November 03, Tuesday
 **Today's Progress**: 2 minute Habit JS
 
 **Thoughts:**
 
 ### R1D35
-### Day 35: November 04, Wednesday            
+### Day 35: November 04, Wednesday
 **Today's Progress**: 2 minute Habit JS
 
 **Thoughts:**
 
 ### R1D36
-### Day 36: November 05, Thursday            
+### Day 36: November 05, Thursday
 **Today's Progress**: 2 minute Habit JS
 
 **Thoughts:**
 
 ### R1D37
-### Day 37: November 06, Friday            
+### Day 37: November 06, Friday
 **Today's Progress**: 2 minute Habit JS
 
 **Thoughts:**
 
 ### R1D38
-### Day 38: November 07, Saturday            
+### Day 38: November 07, Saturday
 **Today's Progress**: 2 minute Habit JS
 
 **Thoughts:**
 
 ### R1D39
-### Day 39: November 08, Sunday            
+### Day 39: November 08, Sunday
 **Today's Progress**: 2 minute Habit JS
 
 **Thoughts:**
 
 ### R1D40
-### Day 40: November 09, Monday            
+### Day 40: November 09, Monday
 **Today's Progress**: 2 minute Habit JS
 
 **Thoughts:**
 
 ### R1D41
-### Day 41: November 10, Tuesday            
+### Day 41: November 10, Tuesday
 **Today's Progress**: 2 minute Habit JS
 
 **Thoughts:**
 
 ### R1D42
-### Day 42: November 11, Wednesday            
+### Day 42: November 11, Wednesday
 **Today's Progress**: 2 minute Habit JS
 
 **Thoughts:**
 
 ### R1D43
-### Day 43: November 12, Thursday            
+### Day 43: November 12, Thursday
 **Today's Progress**: 2 minute Habit JS
 
 **Thoughts:**
 
 ### R1D44
-### Day 44: November 13, Friday            
+### Day 44: November 13, Friday
 **Today's Progress**: 2 minute Habit JS
 
 **Thoughts:**
 
 ### R1D45
-### Day 45: November 14, Saturday            
+### Day 45: November 14, Saturday
 **Today's Progress**: 2 minute Habit JS
 
 **Thoughts:**
 
 ### R1D46
-### Day 46: November 15, Sunday            
+### Day 46: November 15, Sunday
 **Today's Progress**: 2 minute Habit JS
 
 **Thoughts:**
 
 ### R1D47
-### Day 47: November 16, Monday            
+### Day 47: November 16, Monday
 **Today's Progress**: JS workshop
 
 **Thoughts:**
 
 ### R1D48
-### Day 48: November 17, Tuesday            
+### Day 48: November 17, Tuesday
 **Today's Progress**: Clock
 
 **Thoughts:**
 
 ### R1D49
-### Day 49: November 18, Wednesday            
+### Day 49: November 18, Wednesday
 **Today's Progress**: 1hr
 
 **Thoughts:**
@@ -308,25 +308,25 @@ The log of my #100DaysOfCode challenge. Started on [September 30, Wednesday, 202
 -
 -
 ### R1D50
-### Day 50: November 22, Sunday            
+### Day 50: November 22, Sunday
 **Today's Progress**: 2min
 
 **Thoughts:**
 
 ### R153
-### Day 51: November 23, Monday            
+### Day 51: November 23, Monday
 **Today's Progress**: 1hr
 
 **Thoughts:**
 
 ### R152
-### Day 52: November 24, Tuesday            
+### Day 52: November 24, Tuesday
 **Today's Progress**: 1hr
 
 **Thoughts:**
 
 ### R153
-### Day 51: November 25, Wednesday            
+### Day 51: November 25, Wednesday
 **Today's Progress**: 1hr
 
 **Thoughts:**
@@ -334,7 +334,7 @@ The log of my #100DaysOfCode challenge. Started on [September 30, Wednesday, 202
 -
 
 ### R154
-### Day 54: November 27, Friday            
+### Day 54: November 27, Friday
 **Today's Progress**: 2min
 
 **Thoughts:**
@@ -342,49 +342,61 @@ The log of my #100DaysOfCode challenge. Started on [September 30, Wednesday, 202
 -
 
 ### R155
-### Day 55: November 28, Sunday            
+### Day 55: November 28, Sunday
 **Today's Progress**: 2min
 
 **Thoughts:**
 
 ### R156
-### Day 56: November 29, Monday            
+### Day 56: November 29, Monday
 **Today's Progress**: 2min
 
 **Thoughts:**
 
 ### R157
-### Day 57: November 30, Sunday            
+### Day 57: November 30, Sunday
 **Today's Progress**: 2min
 
 **Thoughts:**
 
 ### R158
-### Day 58: December 01, Tuesday            
+### Day 58: December 01, Tuesday
 **Today's Progress**: 2min
 
 **Thoughts:**
 
 ### R159
-### Day 59: December 02, Wednesday            
+### Day 59: December 02, Wednesday
 **Today's Progress**: 1hr
 
 **Thoughts:**
 
 ### R160
-### Day 60: December 03, Thursday            
+### Day 60: December 03, Thursday
 **Today's Progress**: 1hr
 
 **Thoughts:**
 
 ### R161
-### Day 61: December 04, Friday            
+### Day 61: December 04, Friday
 **Today's Progress**: 1hr
 
 **Thoughts:**
 
 ### R162
-### Day 62: December 05, Friday            
+### Day 62: December 05, Saturday
+**Today's Progress**: 1hr
+
+**Thoughts:**
+
+### R163
+### Day 63: December 06, Sunday
+**Today's Progress**: 1hr
+
+**Thoughts:**
+
+### R164
+### Day 64: December 07, Monday
 **Today's Progress**: 1hr
 
 **Thoughts:**
