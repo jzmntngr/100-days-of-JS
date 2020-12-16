@@ -442,3 +442,9 @@ The log of my #100DaysOfCode challenge. Started on [September 30, Wednesday, 202
 **Today's Progress**: 2min JS
 
 **Thoughts:**
+
+### R172
+### Day 72: December 16, Wednesday
+**Today's Progress**: 2min JS
+
+**Thoughts:**
