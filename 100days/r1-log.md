@@ -458,7 +458,15 @@ The log of my #100DaysOfCode challenge. Started on [September 30, Wednesday, 202
 **Thoughts:**
 
 ### R174
-### Day 74: December 20, SUnday
+### Day 74: December 20, Sunday
+**Today's Progress**: 2min JS
+
+**Thoughts:**
+
+-
+
+### R175
+### Day 75: December 22, Tuesday
 **Today's Progress**: 2min JS
 
 **Thoughts:**
