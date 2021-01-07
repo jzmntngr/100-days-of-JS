@@ -508,3 +508,7 @@ The log of my #100DaysOfCode challenge. Started on [September 30, Wednesday, 202
 ### R1D82
 ### Day 82: January 06, Wednesday
 **Today's Progress**:
+
+### R1D83
+### Day 83: January 07, Thursday
+**Today's Progress**:
