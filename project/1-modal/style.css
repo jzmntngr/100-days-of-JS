@@ -30,7 +30,6 @@ button:hover{
 .modal-content{
   background: #f4f4f4;
   margin: 15% auto;
-  /* width: 70%; */
   max-width: 600px;
   box-shadow: 0 5px 8px rgba(0, 0, 0, 0.2),0 5px 8px rgba(0, 0, 0, 0.17);
   animation-name: modalopen;
