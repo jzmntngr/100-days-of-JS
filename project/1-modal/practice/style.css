@@ -4,7 +4,6 @@ html,body{
   box-sizing: border-box;
 }
 body{
-  background: brown;
   font-family: Helvetica, sans-serif;
   font-size: 16px;
 }
@@ -20,25 +19,39 @@ h2,h3{
   border-radius: 3px;
 }
 .wrap{
-  /* display: -webkit-flex;
+  display: -webkit-flex;
   display: -ms-flex;
   display: flex;
   align-items: center;
-  justify-content: center; */
+  justify-content: center;
   height: 100vh;
-  background: pink;
-  margin: 10px;
+  background: #b9b9b9;
 }
 
 .modal{
   display: none;
-  background: #fff;
-  margin: 15px;
+  background: rgba(0, 0, 0, 0.5);
+  margin: 0;
   position: fixed;
-  top: 20%;
+  top: 0;
   bottom: 0;
   left: 0;
   right: 0;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+.modal_dialog{
+  width: 90%;
+  max-width: 600px;
+  background: #fff;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform:translate(-50%,-50%);
+  animation-name: fade;
+  animation-duration: .25s;
+
 }
 .modalBtn{
   color: #fff;
@@ -77,4 +90,13 @@ h2,h3{
   font-size: 17px;
   background:#42D5FF;
   margin-left: auto;
+}
+
+@keyframes fade{
+  from{
+    opacity: 0;
+  }
+  to{
+    opacity: 1;
+  }
 }

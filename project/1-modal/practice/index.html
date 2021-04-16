@@ -12,46 +12,25 @@
 <body>
   <div class="wrap">
     <button class="modalBtn btn" type="button" name="button">Modal</button>
+  </div>
 
     <div class="modal">
-      <div class="modal_header">
-        <span class="close">&times;</span>
-        <h2>Header</h2>
-      </div>
-      <div class="modal_body">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure unde tempora quam error beatae consequuntur ipsam, ad dolores? Odit sint nulla, vero maxime deserunt tempora voluptas voluptatem. Corrupti, id, provident.
-        </p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum fuga quas debitis tempora quasi, itaque, veniam magnam deserunt suscipit ex.</p>
-      </div>
-      <div class="modal_footer">
-        <h3>Footer</h3>
-        <button class="closeBtn btn" type="button" name="button">Close</button>
-      </div>
-
-    </div>
+        <div class="modal_dialog">
+          <div class="modal_header">
+            <span class="close">&times;</span>
+            <h2>Header</h2>
+          </div>
+          <div class="modal_body">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure unde tempora quam error beatae consequuntur ipsam, ad dolores? Odit sint nulla, vero maxime deserunt tempora voluptas voluptatem. Corrupti, id, provident.
+            </p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum fuga quas debitis tempora quasi, itaque, veniam magnam deserunt suscipit ex.</p>
+          </div>
+          <div class="modal_footer">
+            <h3>Footer</h3>
+            <button class="closeBtn close btn" type="button" name="button">Close</button>
+          </div>
+        </div>
   </div>
-  <script>
-  // get modal btn
-    let modalBtn = document.querySelectorAll('.modalBtn')[0];
-  // get close btn
-    let closeBtn = document.querySelectorAll('.closeBtn.close');
-
-  // listen open modal
-    modalBtn.addEventListener('click', openModal);
-
-  // listen close modal
-    closeBtn.addEventListener('click', closeModal);
-
-  // openModal Function
-  function openModal(){
-    alert('a');
-  }
-
-
-
-
-  </script>
   <script src="main.js"></script>
 </body>
-
 </html>
