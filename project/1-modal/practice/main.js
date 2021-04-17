@@ -22,9 +22,13 @@
     function closeModal(){
       modal.style.display = 'none';
     }
+  // closeModal Function
+    // function outsideClick(){
+    //   modal.style.display = 'none';
+    // }
 
   // outsideClick Function
-    function outsideClick(pop){
+    function outsideClick(){
       if (pop.target == modal){
           modal.style.display = 'none';
       }
