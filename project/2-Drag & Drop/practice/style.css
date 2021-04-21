@@ -1,0 +1,28 @@
+*,
+*::before,
+*::after{
+  box-sizing: border-box;
+}
+body{
+  background: pink;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.wrap{
+  max-width: 458px;
+  background: grey;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 4px;
+}
+
+.block{
+  flex: 1 1 150px;
+  background: #fff;
+  width: 150px;
+  height: 150px;
+}
