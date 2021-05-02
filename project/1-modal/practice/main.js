@@ -28,8 +28,8 @@
     // }
 
   // outsideClick Function
-    function outsideClick(){
-      if (pop.target == modal){
+    function outsideClick(i){
+      if (i.target == modal){
           modal.style.display = 'none';
       }
     }
