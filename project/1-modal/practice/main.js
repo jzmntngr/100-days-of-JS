@@ -22,10 +22,8 @@
     function closeModal(){
       modal.style.display = 'none';
     }
-  // closeModal Function
-    // function outsideClick(){
-    //   modal.style.display = 'none';
-    // }
+
+    window.addEventListener('click', outsideClick);
 
   // outsideClick Function
     function outsideClick(i){
