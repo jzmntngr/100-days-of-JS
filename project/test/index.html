@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<style>
+  .hide{
+    display: none;
+  }
+</style>
+<body>
+
+
+<div class="nav-item nav-item--euro">
+  <a href="javascript:void(0);" class="main-nav" style="background-image: url(images/common/nav-promotion.png);">EURO 2020</a>
+  <span class="caret fungames_caret"></span>
+  <div class="dropdown-content hide">
+    <a href="https://www.wclubfun.com/" target="_blank">EURO 2020 Lucky Wheel</a>
+    <a href="https://www.wclubchallenge.com/" target="_blank">EURO 2020 Prediction</a>
+  </div>
+</div>
+  <script>
+  let euroNav = document.querySelector('.nav-item--euro');
+  let euroDrop = document.querySelector('.dropdown-content');
+
+    euroNav.addEventListener('click', i =>{
+        euroDrop.classList.toggle('hide');
+
+      // if (euroDrop.style.display == "none"){
+      //    euroDrop.style.display = "block";
+      // } else{
+      //    euroDrop.style.display = "none";
+      // }
+    })
+
+</script>
+</body>
+</html>
